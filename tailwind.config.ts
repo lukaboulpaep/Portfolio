@@ -7,6 +7,10 @@ export default {
     extend: {
       fontFamily: {
         hostGrotesk: ["Host Grotesk", "sans-serif"]
+      },
+      colors: {
+        lightBeige: "#fffbf5",
+        lightBlack: "#1b1c1d"
       }
     }
   },
