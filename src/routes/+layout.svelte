@@ -10,13 +10,13 @@
 		<nav class="flex items-center">
 			<ul class="flex space-x-4">
 				<li>
-					<a href="/">Experience</a>
+					<a href="#Experience">Experience</a>
 				</li>
 				<li>
-					<a href="/">Work</a>
+					<a href="#Work">Work</a>
 				</li>
 				<li>
-					<a href="/">Blog</a>
+					<a href="#Blog">Blog</a>
 				</li>
 			</ul>
 		</nav>
