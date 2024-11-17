@@ -10,7 +10,8 @@ export default {
       },
       colors: {
         lightBeige: "#fffbf5",
-        lightBlack: "#1b1c1d"
+        lightBlack: "#1b1c1d",
+        lightBlackHover: "#393b3e"
       }
     }
   },
